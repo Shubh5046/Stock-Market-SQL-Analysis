@@ -1,4 +1,4 @@
-# Stock-Trends-Analysis-SQL  
+# Stock-Market-SQL-Analysis  
 
 A project focusing on **Financial Analytics, Risk Mitigation, and Trading Signal Detection** using SQL.  
 
